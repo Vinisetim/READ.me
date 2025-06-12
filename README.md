@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="(https://static-00.iconduck.com/assets.00/kotlin-icon-512x512-x9pzk7fo.png)" height="30" alt="Kotlin" />
+  <img src="[(https://static-00.iconduck.com/assets.00/kotlin-icon-512x512-x9pzk7fo.png)](https://kotlinlang.org/assets/images/twitter/general.png)" height="30" alt="Kotlin" />
 <img width="12" />
   
 </div>
